@@ -1,3 +1,11 @@
 # Grupo401
 
-Hola, este es un mensaje de Jonathan Hernández
+#Luis Armando Guadarrama Osorio
+
+# Miguel Angel Rodriguez Hermida
+
+#Hector Gamaliel Velazquez Garcia
+
+# Miguel Angel Rodriguez Hermida
+#Jonathan Hernandez Guzman
+
