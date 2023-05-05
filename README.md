@@ -1,9 +1,6 @@
 # Grupo401
-Mariana Campos Ceballos 
 
 # Iker Magallan Ambrosio
-
- # Miguel Angel Rodriguez Hermida
 
 # Luis Armando Guadarrama Osorio
 
@@ -24,3 +21,5 @@ Mariana Campos Ceballos
 #Mariana Gonzalez Cerezo
 
 #Mariana Campos Ceballos
+
+#Jose Manuel Dominguez Vilchis
