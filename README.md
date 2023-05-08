@@ -1,33 +1,29 @@
-# Grupo401
-Breve descripcion de Fernando Alexis Olvera Hernandez: 
-Soy una persona muy tranquila, me gustan los deportes, me gusta las peliculas
-de accion, terror, 
+Grupo401
 
-# Iker Magallan Ambrosio
+Francisco Jesus Magallon Montaño
 
-<<<<<<< HEAD
- # Miguel Angel Rodriguez Hermida
+Iker Magallan Ambrosio
 
-=======
-# Luis Armando Guadarrama Osorio
+Luis Armando Guadarrama Osorio
 
-# Claudio Torrez De Paz
+Claudio Torrez De Paz
 
-# Miguel Angel Rodriguez Hermida
+Miguel Angel Rodriguez Hermida
 
-# Hector Gamaliel Velazquez Garcia
+Hector Gamaliel Velazquez Garcia
 
-# Miguel Angel Rodriguez Hermida
+Miguel Angel Rodriguez Hermida
 
-#Jonathan Hernandez Guzman
+Jonathan Hernandez Guzman
 
-# Diego Mercado Tavira
+Diego Mercado Tavira
 
-# Fernando Alexis Olver Herandez
-**Esly Jared Chala Carbajal**
-#Mariana Gonzalez Cerezo
+Fernando Alexis Olver Herandez
 
-#Mariana Campos Ceballos
+Esly Jared Chala Carbajal #Mariana Gonzalez Cerezo
 
-#Jose Manuel Dominguez Vilchis
+Mariana Campos Ceballos
 
+Jose Manuel Dominguez Vilchis
+
+Axel Osvaldo Losa Gonzalez
