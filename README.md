@@ -1,5 +1,7 @@
 Grupo401
 
+Jose de Jesus Solorzano Rangel
+
 Patricio Torrez De Paz
 
 Francisco Jesus Magallon Montaño
