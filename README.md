@@ -1,5 +1,7 @@
 Grupo401
 
+Patricio Torrez De Paz
+
 Francisco Jesus Magallon Montaño
 
 Iker Magallan Ambrosio
