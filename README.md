@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 
 Grupo401
 
@@ -10,6 +8,8 @@ Patricio Torrez De Paz
 Francisco Jesus Magallon Montaño
 
 Iker Magallan Ambrosio
+
+Angel Carro Apolinar
 
 Luis Armando Guadarrama Osorio
 
@@ -40,4 +40,4 @@ Jennifer Gomez Suarez
 Ivan Ortiz Estrada
 
 Viridiana Castillo Reyes
->>>>>>> ac15e794d0a938e44f95c5408d8aadc7e31e02b7
+
